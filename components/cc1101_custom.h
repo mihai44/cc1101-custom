@@ -1,5 +1,4 @@
 #include "esphome.h"
-#include "esphome/components/rf_transceiver/rf_transceiver.h"
 #include "esphome/core/log.h"
 
 static const char *TAG = "cc1101_custom";
